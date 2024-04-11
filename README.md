@@ -11,6 +11,7 @@ COLLEGE NAME: THENI KAMMAVAR SANGAM COLLEGE OF TECHNOLOGY
 LOGIN CREDENTIALS:
               USERNAME: admin
               PASSWORD: admin123
+              
 OR
 
   
