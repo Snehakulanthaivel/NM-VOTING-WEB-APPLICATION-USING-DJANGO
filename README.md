@@ -11,9 +11,11 @@ COLLEGE NAME: THENI KAMMAVAR SANGAM COLLEGE OF TECHNOLOGY
 LOGIN CREDENTIALS:
               USERNAME: admin
               PASSWORD: admin123
+OR
 
-                    (OR)
+  
   EXCUTE THE FOLLOWING COMMAND IN TERMINAL TO RUN THE PROGRAM:
+  
               python manage.py makemigrations
               python manage.py migrate
               python manage.py createsuperuser (use this command to create new admin username and password)
